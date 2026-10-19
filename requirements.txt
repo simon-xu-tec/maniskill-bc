@@ -1,0 +1,7 @@
+# Direct imports used by the existing scripts. Versions are not locked:
+# the original environment was not supplied with this project.
+numpy
+torch
+h5py
+gymnasium
+mani_skill
